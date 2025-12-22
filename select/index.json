@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "オーケストラ",
+  "base_artist": "BiSH",
+  "createdAt": "2025-12-22T08:44:45.861444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オーケストラ",
+      "artist": "Bish",
+      "has_synced": true,
+      "path": "select/01_オーケストラ_Bish.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オーケストラ",
+      "artist": "カミヤサキ, ゴ・ジーラ, ももらんど (BiS) & ヤママチ ミキ, ココ・パーティン・ココ, アヤ・エイトプリンス (GANG PARADE)",
+      "has_synced": true,
+      "path": "select/02_オーケストラ_カミヤサキ,_ゴ・ジーラ,_ももらんど_(BiS)_&_ヤママチ_ミキ,_ココ・パーティン・ココ,_アヤ・エイトプリンス_(GANG_PARADE).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Orchestra [オーケストラ]",
+      "artist": "BiSH",
+      "has_synced": true,
+      "path": "select/03_Orchestra_[オーケストラ]_BiSH.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "素敵だね - オーケストラ・ヴァージョン",
+      "artist": "RIKKI",
+      "has_synced": false,
+      "path": "select/04_素敵だね_-_オーケストラ・ヴァージョン_RIKKI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "出逢い (オーケストラ・ミックス)",
+      "artist": "Esprit D'Air",
+      "has_synced": false,
+      "path": "select/05_出逢い_(オーケストラ・ミックス)_Esprit_D'Air.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "素敵だね -オーケストラ・ヴァージョン-",
+      "artist": "RIKKI",
+      "has_synced": false,
+      "path": "select/06_素敵だね_-オーケストラ・ヴァージョン-_RIKKI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "片翼の天使(オーケストラ･アレンジヴァージョン)",
+      "artist": "Nobuo Uematsu",
+      "has_synced": false,
+      "path": "select/07_片翼の天使(オーケストラ・アレンジヴァージョン)_Nobuo_Uematsu.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "home (オーケストラ バージョン)",
+      "artist": "木山裕策",
+      "has_synced": true,
+      "path": "select/08_home_(オーケストラ_バージョン)_木山裕策.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "STRIKE WITCHES 2 ～笑顔の魔法～ (オーケストラ・ヴァージョン)",
+      "artist": "石田燿子",
+      "has_synced": false,
+      "path": "select/09_STRIKE_WITCHES_2_~笑顔の魔法~_(オーケストラ・ヴァージョン)_石田燿子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "オーケストラ",
+      "artist": "BiSH",
+      "has_synced": true,
+      "path": "select/10_オーケストラ_BiSH.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "オーケストラ ’23",
+      "artist": "BiSH",
+      "has_synced": true,
+      "path": "select/11_オーケストラ_’23_BiSH.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Snow Fairy Story (オーケストラ ver.)",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/12_Snow_Fairy_Story_(オーケストラ_ver.)_40mP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "オーケストラ - ORCHESTRA",
+      "artist": "BiSH",
+      "has_synced": true,
+      "path": "select/13_オーケストラ_-_ORCHESTRA_BiSH.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "オーケストラ",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/14_オーケストラ_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "BiSH / オーケストラ[OFFICIAL VIDEO]",
+      "artist": "BiSH",
+      "has_synced": true,
+      "path": "select/15_BiSH___オーケストラ[OFFICIAL_VIDEO]_BiSH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オーケストラ",
+      "artist": "BiSH",
+      "has_synced": false,
+      "path": "select/pl_01_オーケストラ_BiSH.txt"
+    }
+  ]
+}
